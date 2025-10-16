@@ -1,6 +1,5 @@
 import React from 'react';
-import MenuPage from './MenuPage'; // Make sure the path is correct
-
+import MenuPage from './MenuPage'; 
 function App() {
   return <MenuPage />;
 }
